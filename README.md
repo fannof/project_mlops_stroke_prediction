@@ -1,4 +1,4 @@
-# Submission 1: Nama Proyek Anda
+# Final Submission: Machine Learning Operations(MLops) Pipeline - Klasifikasi Penyakit Stroke
 Nama: Novan Nur Hidayat
 
 Username dicoding: fannof
